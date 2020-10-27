@@ -354,7 +354,7 @@ margin:0 0.5em;
 
 /*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-MediaQuery-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
 
-@media screen and (min-width:800px){
+@media screen and (min-width:1000px){
   *{
  	box-sizing:border-box;
    }
