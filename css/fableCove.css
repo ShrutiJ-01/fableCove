@@ -70,7 +70,7 @@ float:left;
 .dropbtn{
 text-align:center;
 width:10vw;
-margin:0.5em;
+margin:1em;
 margin-top:0em;
 padding:0.3em;
 color:#291711;
@@ -194,6 +194,7 @@ overflow:hidden;
 /*to center just the paragraph in the genre section*/
 #genre p{
   text-align:center;
+	font-size:1.08em;
 }
 /*specificaly for link containers' divs*/
 .Card-Links{
